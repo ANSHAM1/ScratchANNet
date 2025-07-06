@@ -20,6 +20,12 @@ The goal of `scratchANNet` is to build a fully interpretable and performant neur
 
 ---
 
+## 🧠 Architecture Diagram
+
+![ANN Flowchart](ANN.png)
+
+---
+
 ## 🚀 Features
 
 * ✅ C++20 module-based architecture (`export module ANNet;`)
@@ -96,6 +102,12 @@ model.showMatrix();
 vector<double> input = {6.9, 3.2, 5.5, 2.2};
 int prediction = model.predict(input);
 ```
+
+---
+
+## 🖥️ Sample Output
+
+![Sample Output Screenshot](output.png)
 
 ---
 
