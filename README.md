@@ -1,4 +1,4 @@
-# scratchANNet
+# ScratchANNet
 
 `scratchANNet` is a minimalist deep learning framework written entirely from scratch in **C++20** using module files (`.ixx`) — no external ML libraries or frameworks involved.
 
