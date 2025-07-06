@@ -107,7 +107,7 @@ int prediction = model.predict(input);
 
 ## 🖥️ Sample Output
 
-![Sample Output Screenshot](output.png)
+![Sample Output Screenshot](Output.png)
 
 ---
 
